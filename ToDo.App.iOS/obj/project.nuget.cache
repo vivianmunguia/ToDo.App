@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ASb8Hq2JvFjrKNoTXE/8PSFgSmNQtIqfOt6lpXF46xqT36LWI8wk+v/uqNwS2PbIPlsq2+TprBhocloyk8ykbw==",
+  "success": true,
+  "projectFilePath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andy_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

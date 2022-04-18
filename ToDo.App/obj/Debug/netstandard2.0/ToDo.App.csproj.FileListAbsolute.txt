@@ -1,0 +1,31 @@
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.deps.json
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.dll
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ref\ToDo.App.dll
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.pdb
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csproj.AssemblyReference.cache
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfoInputs.cache
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfo.cs
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csproj.CoreCompileInputs.cache
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.dll
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ref\ToDo.App.dll
+C:\Users\andy_\Documents\Cursos\Xamarin\Xamarin Forms desde 0 para Principiantes\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.pdb
+C:\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.deps.json
+C:\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.dll
+C:\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ref\ToDo.App.dll
+C:\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.pdb
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csproj.AssemblyReference.cache
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfoInputs.cache
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfo.cs
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csproj.CoreCompileInputs.cache
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.dll
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ref\ToDo.App.dll
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.pdb
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\Views\AddPage.xaml.g.cs
+C:\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
