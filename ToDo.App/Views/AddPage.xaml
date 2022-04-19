@@ -5,9 +5,7 @@
              Title="Agregar tarea">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Nombre"></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
