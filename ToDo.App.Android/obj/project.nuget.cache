@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ea1xdcsoLmh976p5jfDmprlGfXbPdHAN8YIXkCzCfOOX5ZqONvAhB9c204SZUAK/09WrFYa6xrm1jcyCugTT/Q==",
+  "dgSpecHash": "495HEI1OHoHXfWE6HUcUMuXCknEz1JZPFfLOTi4hGWUc1NCzwap3WuMsctS3azvEheqVOCtk46ID+jhUQbFNdw==",
   "success": true,
-  "projectFilePath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.Android\\ToDo.App.Android.csproj",
+  "projectFilePath": "C:\\ToDo.App\\ToDo.App.Android\\ToDo.App.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\andy_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
