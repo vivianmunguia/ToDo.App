@@ -1,10 +1,26 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Ea1xdcsoLmh976p5jfDmprlGfXbPdHAN8YIXkCzCfOOX5ZqONvAhB9c204SZUAK/09WrFYa6xrm1jcyCugTT/Q==",
+=======
+  "dgSpecHash": "juC6/mI5LQQiqf/29fJWoom2r6wKmTeZOcq16rA0zgWj7h7KN5hPWH7SGVbadhsthpAE4VAR/v5sinyKjFaicw==",
+>>>>>>> 2c9a49a7aabc91c631ea48c712940c874a6d59f8
   "success": true,
   "projectFilePath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.Android\\ToDo.App.Android.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
     "C:\\Users\\andy_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+=======
+    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vmunguia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+>>>>>>> 2c9a49a7aabc91c631ea48c712940c874a6d59f8
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",

@@ -3,10 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ToDo.App.Views.AddPage"
              Title="Agregar tarea">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem  Text="Guardar" x:Name="BtnGuardar" Clicked="BtnGuardar_Clicked"/>
+    </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Nombre"></Label>
-            <Entry></Entry>
+        <StackLayout Padding="15">
+            <Label Text="Nombre" FontSize="Medium" TextColor="{StaticResource colorPrimary}"></Label>
+            <Entry x:Name="nombre" />
+            <Label Text="Descripción" FontSize="Medium" TextColor="{StaticResource colorPrimary}"></Label>
+            <Editor x:Name="descripcion" HeightRequest="200"></Editor>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
