@@ -1,27 +1,26 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "ASb8Hq2JvFjrKNoTXE/8PSFgSmNQtIqfOt6lpXF46xqT36LWI8wk+v/uqNwS2PbIPlsq2+TprBhocloyk8ykbw==",
-=======
-  "dgSpecHash": "Z/+GN3L9rJE9Uy9cqT8SufjdA4NTnPdl2ogRqaGy4jCgXT/5vq9QkATE6FD5r8TK7SgsQ+2vTxeCxvk+VOiBXQ==",
->>>>>>> 2c9a49a7aabc91c631ea48c712940c874a6d59f8
+  "dgSpecHash": "wOr/JcXSVgnprRMz4EA1tf4uAYTOb5e3bh6eJliN49ZVsCi6LicOVBix3L6ALf42yeOYsvTRq3RRtC1UZkt3IQ==",
   "success": true,
   "projectFilePath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
   "expectedPackageFiles": [
-<<<<<<< HEAD
+    "C:\\Users\\andy_\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\andy_\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\andy_\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-=======
-    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
-    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
-    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
-    "C:\\Users\\vmunguia\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
-    "C:\\Users\\vmunguia\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
-    "C:\\Users\\vmunguia\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\vmunguia\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\vmunguia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
->>>>>>> 2c9a49a7aabc91c631ea48c712940c874a6d59f8
+    "C:\\Users\\andy_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

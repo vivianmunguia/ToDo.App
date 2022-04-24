@@ -1,4 +1,5 @@
 ﻿using SQLite;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using ToDo.App.Models;
 
@@ -16,6 +17,11 @@ namespace ToDo.App.Data
         public async Task<int> InsertItemAsync(ToDoItem item)
         {
             return await Connection.InsertAsync(item);
+        }
+
+        public async Task<List<ToDoItem>> GetItemAsync()
+        {
+            return await Connection.Table<ToDoItem>().ToListAsync();
         }
     }
 }
