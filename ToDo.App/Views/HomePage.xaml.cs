@@ -23,9 +23,10 @@ namespace ToDo.App.Views
             LoadItems();
         }
 
-        private void LoadItems()
+        private async void LoadItems()
         {
-            var items 
+            var items = await App.Context.GetItemAsync();
+            lista_tareas.ItemsSource = items;
         }
 
         private async void ToolbarItem_Clicked(object sender, EventArgs e)
