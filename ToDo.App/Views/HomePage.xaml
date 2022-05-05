@@ -11,6 +11,18 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
+<<<<<<< HEAD
+=======
+                        <ViewCell.ContextActions>
+                            <MenuItem
+                                x:Name="BtnDelete"
+                                Text="Eliminar"
+                                IsDestructive="True"
+                                Clicked="BtnDelete_Clicked"
+                                CommandParameter="{Binding .}">
+                            </MenuItem>
+                        </ViewCell.ContextActions>
+>>>>>>> 04ea9a328edeea164893beb0162020682821bd03
                         <StackLayout Padding="15,0">
                             <Label Text="{Binding Name}" FontSize="Medium" TextColor="{StaticResource colorPrimary}"></Label>
                             <Label Text="{Binding Description}"></Label>

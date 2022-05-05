@@ -1,2 +1,2 @@
 # ToDo.App
-Xamarin app to orginize tasks
+Xamarin app to organize tasks

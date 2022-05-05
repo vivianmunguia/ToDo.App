@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj": {}
+    "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj": {}
   },
   "projects": {
-    "C:\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj": {
+    "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
+        "projectUniqueName": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
         "projectName": "ToDo.App.iOS",
-        "projectPath": "C:\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
-        "packagesPath": "C:\\Users\\vmunguia\\.nuget\\packages\\",
-        "outputPath": "C:\\ToDo.App\\ToDo.App.iOS\\obj\\",
+        "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
+        "packagesPath": "C:\\Users\\andy_\\.nuget\\packages\\",
+        "outputPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vmunguia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andy_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\ToDo.App\\ToDo.App\\ToDo.App.csproj": {
-                "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.csproj"
+              "C:\\ToDo.App\\ToDo.App\\ToDo.App\\ToDo.App.csproj": {
+                "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App\\ToDo.App.csproj"
               }
             }
           }
@@ -67,21 +67,21 @@
         }
       }
     },
-    "C:\\ToDo.App\\ToDo.App\\ToDo.App.csproj": {
+    "C:\\ToDo.App\\ToDo.App\\ToDo.App\\ToDo.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ToDo.App\\ToDo.App\\ToDo.App.csproj",
+        "projectUniqueName": "C:\\ToDo.App\\ToDo.App\\ToDo.App\\ToDo.App.csproj",
         "projectName": "ToDo.App",
-        "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.csproj",
-        "packagesPath": "C:\\Users\\vmunguia\\.nuget\\packages\\",
-        "outputPath": "C:\\ToDo.App\\ToDo.App\\obj\\",
+        "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App\\ToDo.App.csproj",
+        "packagesPath": "C:\\Users\\andy_\\.nuget\\packages\\",
+        "outputPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vmunguia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andy_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -138,7 +138,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

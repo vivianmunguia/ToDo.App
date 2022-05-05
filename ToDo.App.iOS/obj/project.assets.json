@@ -1451,18 +1451,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vmunguia\\.nuget\\packages\\": {},
+    "C:\\Users\\andy_\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
+      "projectUniqueName": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
       "projectName": "ToDo.App.iOS",
-      "projectPath": "C:\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
-      "packagesPath": "C:\\Users\\vmunguia\\.nuget\\packages\\",
-      "outputPath": "C:\\ToDo.App\\ToDo.App.iOS\\obj\\",
+      "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
+      "packagesPath": "C:\\Users\\andy_\\.nuget\\packages\\",
+      "outputPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1470,7 +1470,7 @@
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\vmunguia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andy_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -1485,8 +1485,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\ToDo.App\\ToDo.App\\ToDo.App.csproj": {
-              "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App.csproj"
+            "C:\\ToDo.App\\ToDo.App\\ToDo.App\\ToDo.App.csproj": {
+              "projectPath": "C:\\ToDo.App\\ToDo.App\\ToDo.App\\ToDo.App.csproj"
             }
           }
         }
@@ -1517,5 +1517,13 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\ToDo.App\\ToDo.App\\ToDo.App.iOS\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
