@@ -30,7 +30,7 @@ namespace ToDo.App.Views
                 var result = await App.Context.InsertItemAsync(item);
                 if (result == 1)
                 {
-                    await Navigation.PopAsync(); //Si se guarda el elemento se sale de la pantalla actual y se devuelve a la original
+                    await Navigation.PopAsync();                                            //Si se guarda el elemento se sale de la pantalla actual y se devuelve a la original
                 }
                 else
                 {
