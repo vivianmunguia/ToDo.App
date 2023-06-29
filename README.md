@@ -9,6 +9,3 @@ Form to add new tasks. <br>
 
 We can also delete tasks. <br>
 ![Untitled(2)](https://github.com/vivianmunguia/ToDo.App/assets/15255979/f720e17f-b618-4ce8-9226-40fbf72786d2)
-
-<br>
-![Untitled(3)](https://github.com/vivianmunguia/ToDo.App/assets/15255979/039d143f-6f1c-491a-ac4c-cf0f3322a66d)
